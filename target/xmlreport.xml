@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0.030839">
+<testcase classname="Test Calculator functionqality" name="Test Add function" time="0.030839">
+<skipped><![CDATA[When user enters 1..........................................................undefined
+And user press plus.........................................................undefined
+Then the user enters second value as 5......................................undefined
+Then the user press equal...................................................undefined
+Then validate the output as 6...............................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
